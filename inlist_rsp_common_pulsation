@@ -175,9 +175,6 @@
       log_directory='LOGS_7'
       photo_directory='photos_7'
 
-      !photo_interval = 10
-      !profile_interval = 10
-      !history_interval = 1
-      !terminal_interval = 1
+/ ! end of controls namelist
 
 
